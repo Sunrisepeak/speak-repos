@@ -31,7 +31,7 @@ int main() {
     gli_camera_update();
 
     while (!glfwWindowShouldClose(window)) {
-        gli_clear(0.2, 0.1, 0.3, 0.5);
+        gli_clear(0, 0, 0, 1);
 
         gli_coordinate();
 
