@@ -3,7 +3,7 @@ package("dstruct")
     set_description("Data Structures Libs")
     set_license("Apache-2.0")
 
-    set_urls("git@github.com:sunrisepeak/dstruct.git master")
+    set_urls("git@github.com:Sunrisepeak/dstruct.git")
 
     add_includedirs(".")
 

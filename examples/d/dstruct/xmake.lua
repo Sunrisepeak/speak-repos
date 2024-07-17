@@ -1,4 +1,4 @@
-add_repositories("sunrisepeak-projects git@github.com:Sunrisepeak/sunrisepeak-projects.git")
+--add_repositories("sunrisepeak-projects git@github.com:Sunrisepeak/sunrisepeak-projects.git")
 
 add_requires("dstruct")
 

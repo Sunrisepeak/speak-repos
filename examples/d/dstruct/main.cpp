@@ -8,11 +8,11 @@ int main() {
     arr[-1] = 1;
     arr[-2] = 2;
 
-    std::cout << "[ "
+    std::cout << "[ ";
     for (auto val : arr) {
         std::cout << val << " ";
     }
-    std::cout << " ]" << std::endl;
+    std::cout << "]" << std::endl;
 
     return 0;
 }
